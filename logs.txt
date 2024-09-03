@@ -1,0 +1,883 @@
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTNENDg2ODFENkZDRkIzNTUwQwA=', 'timestamp': '1718265914', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJEOTVBQTgwNTlDOTBCNkU2OTUA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJEOTVBQTgwNTlDOTBCNkU2OTUA', 'status': 'delivered', 'timestamp': '1718265917', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJEOTVBQTgwNTlDOTBCNkU2OTUA', 'status': 'sent', 'timestamp': '1718265917', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJEOTVBQTgwNTlDOTBCNkU2OTUA', 'status': 'read', 'timestamp': '1718265918', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTQyMURDQUNDOUYxMzdDNDdEOQA=', 'timestamp': '1718266473', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'client' is not defined
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJERTlEQzM4RUQyOUJFRTg1NkIA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJERTlEQzM4RUQyOUJFRTg1NkIA', 'status': 'sent', 'timestamp': '1718266476', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJERTlEQzM4RUQyOUJFRTg1NkIA', 'status': 'read', 'timestamp': '1718266476', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJERTlEQzM4RUQyOUJFRTg1NkIA', 'status': 'delivered', 'timestamp': '1718266476', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJERTlEQzM4RUQyOUJFRTg1NkIA', 'status': 'delivered', 'timestamp': '1718266476', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTcyMzgxRjFBRjQ1QUE5RjgyNAA=', 'timestamp': '1718266594', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4Q0RFNTVCODU0N0ZGRkZBNzEA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4Q0RFNTVCODU0N0ZGRkZBNzEA', 'status': 'sent', 'timestamp': '1718266597', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4Q0RFNTVCODU0N0ZGRkZBNzEA', 'status': 'delivered', 'timestamp': '1718266597', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4Q0RFNTVCODU0N0ZGRkZBNzEA', 'status': 'read', 'timestamp': '1718266597', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+OpenAI error: 'ChatCompletionMessage' object is not subscriptable
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUEzMERENEE4NzA3MUYxQUMyRQA=', 'timestamp': '1718266975', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI3Nzc5MTdDN0RBNzA3OUVEQTcA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI3Nzc5MTdDN0RBNzA3OUVEQTcA', 'status': 'sent', 'timestamp': '1718266977', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI3Nzc5MTdDN0RBNzA3OUVEQTcA', 'status': 'delivered', 'timestamp': '1718266977', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI3Nzc5MTdDN0RBNzA3OUVEQTcA', 'status': 'delivered', 'timestamp': '1718266977', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI3Nzc5MTdDN0RBNzA3OUVEQTcA', 'status': 'read', 'timestamp': '1718266977', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI0QUM2NzhBRTUyQTVEQjI1RAA=', 'timestamp': '1718266749', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5MTNGRDFEQUI1RTQ5Mjc3NzYA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5MTNGRDFEQUI1RTQ5Mjc3NzYA', 'status': 'sent', 'timestamp': '1718267145', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5MTNGRDFEQUI1RTQ5Mjc3NzYA', 'status': 'delivered', 'timestamp': '1718267145', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5MTNGRDFEQUI1RTQ5Mjc3NzYA', 'status': 'read', 'timestamp': '1718267145', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5MTNGRDFEQUI1RTQ5Mjc3NzYA', 'status': 'delivered', 'timestamp': '1718267145', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Missing parameters
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJDRjg2MUJGRUVDOEEyMUQ0MAA=', 'timestamp': '1718266884', 'text': {'body': 'Hii'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hii
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNEFBQjM4QzNDMkEyOTU4QTgA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNEFBQjM4QzNDMkEyOTU4QTgA', 'status': 'sent', 'timestamp': '1718267298', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNEFBQjM4QzNDMkEyOTU4QTgA', 'status': 'delivered', 'timestamp': '1718267299', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNEFBQjM4QzNDMkEyOTU4QTgA', 'status': 'read', 'timestamp': '1718267311', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'chat_completion' is not defined
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'chat_completion' is not defined
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'chat_completion' is not defined
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'chat_completion' is not defined
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI error: name 'chat_completion' is not defined
+Unknown error: '96170595171'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTcyNUEyRjM1QzlCMjRBNkQ2QwA=', 'timestamp': '1718267537', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxRUVDQzE3OUZGQUEzQ0QwMkMA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxRUVDQzE3OUZGQUEzQ0QwMkMA', 'status': 'sent', 'timestamp': '1718267539', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxRUVDQzE3OUZGQUEzQ0QwMkMA', 'status': 'delivered', 'timestamp': '1718267540', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxRUVDQzE3OUZGQUEzQ0QwMkMA', 'status': 'read', 'timestamp': '1718267540', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUVEQkNCNTVFNkY0QTJGQThDMgA=', 'timestamp': '1718267598', 'text': {'body': 'How are you'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: How are you
+OpenAI response: I'm just a computer program, so I don't have feelings, but I'm here to assist you! How can I help you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5REE1NDIwNTBCQzY0NjgxRUYA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5REE1NDIwNTBCQzY0NjgxRUYA', 'status': 'sent', 'timestamp': '1718267601', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5REE1NDIwNTBCQzY0NjgxRUYA', 'status': 'delivered', 'timestamp': '1718267601', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5REE1NDIwNTBCQzY0NjgxRUYA', 'status': 'read', 'timestamp': '1718267602', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUEwQzNFQzJBRkE1MzgzNkEwMgA=', 'timestamp': '1718267882', 'text': {'body': 'Who is the president of Lebanon'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Who is the president of Lebanon
+OpenAI response: As of September 2021, Michel Aoun is the President of Lebanon. He has been in office since October 31, 2016.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBQUEyRjY3RkE3QUYzODBCMDMA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBQUEyRjY3RkE3QUYzODBCMDMA', 'status': 'sent', 'timestamp': '1718267885', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBQUEyRjY3RkE3QUYzODBCMDMA', 'status': 'delivered', 'timestamp': '1718267885', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBQUEyRjY3RkE3QUYzODBCMDMA', 'status': 'read', 'timestamp': '1718267886', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTJFRUY4NDlFM0Q5Mzk1MTQwNwA=', 'timestamp': '1718267454', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFRjQ4NkRFNjU4QUIwMUYzMEQA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFRjQ4NkRFNjU4QUIwMUYzMEQA', 'status': 'delivered', 'timestamp': '1718267890', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFRjQ4NkRFNjU4QUIwMUYzMEQA', 'status': 'sent', 'timestamp': '1718267890', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFRjQ4NkRFNjU4QUIwMUYzMEQA', 'status': 'read', 'timestamp': '1718267890', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTNEOTdBOERDNDUyMUNGNzNFRAA=', 'timestamp': '1718267937', 'text': {'body': 'Who is the king of Saudi Arabia'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Who is the king of Saudi Arabia
+OpenAI response: As of September 2021, King Salman bin Abdulaziz Al Saud is the King of Saudi Arabia. He has been the King since January 23, 2015.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIyQzlERUNEMDVEQjM2NzRFQTUA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIyQzlERUNEMDVEQjM2NzRFQTUA', 'status': 'sent', 'timestamp': '1718267940', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIyQzlERUNEMDVEQjM2NzRFQTUA', 'status': 'delivered', 'timestamp': '1718267941', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIyQzlERUNEMDVEQjM2NzRFQTUA', 'status': 'delivered', 'timestamp': '1718267941', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIyQzlERUNEMDVEQjM2NzRFQTUA', 'status': 'read', 'timestamp': '1718267941', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUJEOTgzQ0E4NUNCQzk2RDkyMwA=', 'timestamp': '1718268024', 'text': {'body': 'What is a laptop'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: What is a laptop
+OpenAI response: A laptop is a portable computer that is small and lightweight enough to be used on a person's lap. It typically has a screen, keyboard, and trackpad or mouse for input, as well as a battery for power. Laptops are commonly used for work, school, entertainment, and communication purposes.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIwQ0Y2MzY4QjBDQTM4Nzk1OTMA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIwQ0Y2MzY4QjBDQTM4Nzk1OTMA', 'status': 'sent', 'timestamp': '1718268027', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIwQ0Y2MzY4QjBDQTM4Nzk1OTMA', 'status': 'delivered', 'timestamp': '1718268027', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIwQ0Y2MzY4QjBDQTM4Nzk1OTMA', 'status': 'read', 'timestamp': '1718268028', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTI2OTJDMjNCMDkxNzZFQjI1RQA=', 'timestamp': '1718285144', 'text': {'body': 'Who are you'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Who are you
+OpenAI response: I am a helpful assistant called WhatsBot. I'm here to answer your questions and assist you with any information you may need. How can I help you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDNjYxMURENENGMjlBRjZFODYA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDNjYxMURENENGMjlBRjZFODYA', 'status': 'sent', 'timestamp': '1718285148', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDNjYxMURENENGMjlBRjZFODYA', 'status': 'read', 'timestamp': '1718285149', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDNjYxMURENENGMjlBRjZFODYA', 'status': 'delivered', 'timestamp': '1718285149', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTNEQ0I4QTJFMDQyMTA5MkExRAA=', 'timestamp': '1718285174', 'text': {'body': 'Hi what can you do'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi what can you do
+OpenAI response: Hello! I can help answer questions, provide information, offer suggestions, and assist you with a variety of tasks. Just let me know what you need help with!
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4NTFGMDY4MDQ0ODVGREI2Q0YA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4NTFGMDY4MDQ0ODVGREI2Q0YA', 'status': 'sent', 'timestamp': '1718285177', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4NTFGMDY4MDQ0ODVGREI2Q0YA', 'status': 'read', 'timestamp': '1718285177', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4NTFGMDY4MDQ0ODVGREI2Q0YA', 'status': 'delivered', 'timestamp': '1718285177', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTVBMkRENzM4QTNBRERBMkUxRAA=', 'timestamp': '1718285224', 'text': {'body': 'How is oxygenee helpful for wounds'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: How is oxygenee helpful for wounds
+OpenAI response: Oxygen can be helpful for wounds because it promotes healing by increasing the supply of oxygen to the injured tissues. Oxygen plays a crucial role in the body's healing process, as it helps to kill bacteria, reduce inflammation, and stimulate the growth of new blood vessels. Oxygen therapy, which involves the delivery of pure oxygen to the wound site, can be used to speed up the healing process for certain types of wounds, such as chronic ulcers or burns. It is important to note that oxygen therapy should be administered under the guidance of a healthcare professional.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxQzFDRjI0Q0ZGMkU1M0Q1MDYA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxQzFDRjI0Q0ZGMkU1M0Q1MDYA', 'status': 'sent', 'timestamp': '1718285228', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxQzFDRjI0Q0ZGMkU1M0Q1MDYA', 'status': 'read', 'timestamp': '1718285228', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxQzFDRjI0Q0ZGMkU1M0Q1MDYA', 'status': 'delivered', 'timestamp': '1718285228', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341070&hash=ATszg6n2GZkE40c_qCw-l5Xs4HQI6lPe9osnGZqx97dcyw', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341071&hash=ATuH6Yvx4AhNOfvKARAxKPklzT6wsvMS1ZrWi_ECa1ZEQg', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341072&hash=ATsyjaCHeqJ5mvtSF4g2RKb2r0aIuIiS7IW_Cq1SsQXRcQ', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341075&hash=ATtyLFfT3xuZIhPkYxrKjZVSJMbPZb6vQc9jaLNCehYi1Q', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTU3QUY3MEE0MjgzMDRGN0RERAA=', 'timestamp': '1718340790', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxMTA1OTRBNjEyM0ZGMDYzOUEA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxMTA1OTRBNjEyM0ZGMDYzOUEA', 'status': 'sent', 'timestamp': '1718340793', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'expiration_timestamp': '1718349840', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxMTA1OTRBNjEyM0ZGMDYzOUEA', 'status': 'delivered', 'timestamp': '1718340793', 'recipient_id': '96170595171', 'conversation': {'id': 'cfed43e9e18e1703eae36d7bdc16414f', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBIxMTA1OTRBNjEyM0ZGMDYzOUEA', 'status': 'read', 'timestamp': '1718340793', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341099&hash=ATsXS8k9bozinKYcNqAjWICO7VhcIyqoqcv8XT8Jn16cMw', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718341473&hash=ATvI__zhDh1VqBWSOhsXO3OEH1WsVohJXc7TbdvxvDnNeA', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'url': 'https://lookaside.fbsbx.com/whatsapp_business/attachments/?mid=789768126631446&ext=1718347137&hash=ATthLmbrx4oDcxE5H4dYhRmmWCXmg4VFeJwAMMitznLdWQ', 'mime_type': 'audio/ogg', 'sha256': '47783a597670aa3809bc9d61b3033b8a70ab8ca520a8b5e12a2db2c19cae5544', 'file_size': 4407, 'id': '789768126631446', 'messaging_product': 'whatsapp'}
+First 10 digits of the media file: b'OggS\x00\x02\x00\x00\x00\x00'
+Unknown error: [Errno 2] No such file or directory: 'ffprobe'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 08:00:40 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A41MUd114XU5MMogV_-0CoR'}}
+Unknown error: 'url'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 08:00:41 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AUZDN9MV8tmirQ529cNADQw'}}
+Unknown error: 'url'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 08:00:44 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'Adtoi2RXrXtMWcKoHBH34et'}}
+Unknown error: 'url'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 08:01:09 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AwutoLN7h6vIV1ojkY3APi-'}}
+Unknown error: 'url'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 08:08:19 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AueF2So7qSA65ZUofAMFhLH'}}
+Unknown error: 'url'
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '215471138326357', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550925246', 'phone_number_id': '257068700826630'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUI1QzFEOUY4N0U5NTU3MUQzNQA=', 'timestamp': '1718340767', 'type': 'audio', 'audio': {'mime_type': 'audio/ogg; codecs=opus', 'sha256': 'R3g6WXZwqjgJvJ1hswM7inCrjKUgqLXhKi2ywZyuVUQ=', 'id': '789768126631446', 'voice': True}}]}, 'field': 'messages'}]}]}
+Media ID response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Friday, 14-Jun-24 09:48:59 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'A6_rBnW2iA5gmoIUVdEw2oF'}}
+Unknown error: 'url'
+Webhook verified
+Missing parameters
+Request body: {'entry': [{'id': '343766628822433', 'time': 1718875296, 'changes': [{'value': {'max_daily_conversation_per_phone': 1000, 'max_phone_numbers_per_waba': 1}, 'field': 'business_capability_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'entry': [{'id': '348522621675519', 'time': 1718875296, 'changes': [{'value': {'max_daily_conversation_per_phone': 5, 'max_phone_numbers_per_waba': 1}, 'field': 'business_capability_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'entry': [{'id': '348522621675519', 'time': 1718875296, 'changes': [{'value': {'display_phone_number': '15550885819', 'event': 'ONBOARDING', 'current_limit': 'TIER_1K', 'old_limit': 'TIER_NOT_SET'}, 'field': 'phone_number_quality_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'entry': [{'id': '348522621675519', 'time': 1718875298, 'changes': [{'value': {'entity_type': 'BUSINESS', 'entity_id': '1451197205784479', 'alert_severity': 'WARNING', 'alert_status': 'ACTIVE', 'alert_type': 'INCREASED_CAPABILITIES_ELIGIBILITY_DEFERRED', 'alert_description': 'Limits cannot be increased for your business Vision Architech. Use WhatsApp Business platform actively for several days and follow our messaging policies. Once the above requirements are met, we will review your profile display names to ensure that they follow the guidelines.'}, 'field': 'account_alerts'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'entry': [{'id': '343766628822433', 'time': 1718875298, 'changes': [{'value': {'entity_type': 'BUSINESS', 'entity_id': '1451197205784479', 'alert_severity': 'WARNING', 'alert_status': 'ACTIVE', 'alert_type': 'INCREASED_CAPABILITIES_ELIGIBILITY_DEFERRED', 'alert_description': 'Limits cannot be increased for your business Vision Architech. Use WhatsApp Business platform actively for several days and follow our messaging policies. Once the above requirements are met, we will review your profile display names to ensure that they follow the guidelines.'}, 'field': 'account_alerts'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJENUExRDc0MTQzODJDQTM2NkYA', 'status': 'sent', 'timestamp': '1718883846', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'expiration_timestamp': '1718970300', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJENUExRDc0MTQzODJDQTM2NkYA', 'status': 'delivered', 'timestamp': '1718883847', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJENUExRDc0MTQzODJDQTM2NkYA', 'status': 'delivered', 'timestamp': '1718883846', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJENUExRDc0MTQzODJDQTM2NkYA', 'status': 'read', 'timestamp': '1718883853', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello again! How can I help you today?
+WhatsApp message response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Thursday, 20-Jun-24 04:44:23 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AGqOSJkyre347EuuqidLEWR'}}
+Unknown error: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Thursday, 20-Jun-24 04:44:26 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AFnV0wl6fJLAgm6CNbvlZCd'}}
+Unknown error: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Thursday, 20-Jun-24 04:44:27 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AJMuSBZbwf4w7i8Thxx7awS'}}
+Unknown error: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Thursday, 20-Jun-24 04:44:31 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AW6JbW2ZMhRdPJskfUPaXka'}}
+Unknown error: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I help you today?
+WhatsApp message response: {'error': {'message': 'Error validating access token: Session has expired on Friday, 14-Jun-24 01:00:00 PDT. The current time is Thursday, 20-Jun-24 04:44:57 PDT.', 'type': 'OAuthException', 'code': 190, 'error_subcode': 463, 'fbtrace_id': 'AiXiG2CSfLQP9cJN6wREFlO'}}
+Unknown error: 401 Client Error: Unauthorized for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTNCRjM4N0IyNTEyMEM3RjgzNgA=', 'timestamp': '1718884116', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBRTk1RkE1RUQyNDg2OTU3NjAA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBRTk1RkE1RUQyNDg2OTU3NjAA', 'status': 'sent', 'timestamp': '1718884118', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'expiration_timestamp': '1718970300', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBRTk1RkE1RUQyNDg2OTU3NjAA', 'status': 'delivered', 'timestamp': '1718884119', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBRTk1RkE1RUQyNDg2OTU3NjAA', 'status': 'read', 'timestamp': '1718884119', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQThCNjlEOTc5OTFCQjk4QTQ4NAA=', 'timestamp': '1718883861', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I help you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5OEM5NURDMjlCM0MxOEQ3MTAA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5OEM5NURDMjlCM0MxOEQ3MTAA', 'status': 'sent', 'timestamp': '1718884257', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'expiration_timestamp': '1718970300', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5OEM5NURDMjlCM0MxOEQ3MTAA', 'status': 'delivered', 'timestamp': '1718884258', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5OEM5NURDMjlCM0MxOEQ3MTAA', 'status': 'read', 'timestamp': '1718884258', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5OEM5NURDMjlCM0MxOEQ3MTAA', 'status': 'delivered', 'timestamp': '1718884258', 'recipient_id': '96170595171', 'conversation': {'id': '8aacdf6d35cb95a133bd6510c0329f00', 'origin': {'type': 'utility'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'utility'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQUZCRjQ2RkRGQjg4REE4MzU2MwA=', 'timestamp': '1719217243', 'text': {'body': 'Hello'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hello
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBOEQ4MDNDM0FCNkU5N0I5MTIA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBOEQ4MDNDM0FCNkU5N0I5MTIA', 'status': 'sent', 'timestamp': '1719217247', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'expiration_timestamp': '1719303660', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBOEQ4MDNDM0FCNkU5N0I5MTIA', 'status': 'delivered', 'timestamp': '1719217248', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBOEQ4MDNDM0FCNkU5N0I5MTIA', 'status': 'read', 'timestamp': '1719217257', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBYzRUIwQzJGOUEwNDZEMjU2QjVGM0U1AA==', 'timestamp': '1719218830', 'text': {'body': 'why panadol is used ?'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: why panadol is used ?
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol. It is commonly used to relieve mild to moderate pain and reduce fever. Panadol can be used for various conditions such as headaches, toothaches, muscle aches, and colds or flu symptoms. It is also commonly used as a safe and effective pain reliever for children. However, it is important to follow the recommended dosage instructions and consult a healthcare professional if you have any concerns or questions about its use.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFMjM5NkFFQUIyQ0MwOTQzQ0MA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFMjM5NkFFQUIyQ0MwOTQzQ0MA', 'status': 'sent', 'timestamp': '1719218835', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'expiration_timestamp': '1719303660', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFMjM5NkFFQUIyQ0MwOTQzQ0MA', 'status': 'delivered', 'timestamp': '1719218835', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJFMjM5NkFFQUIyQ0MwOTQzQ0MA', 'status': 'read', 'timestamp': '1719218836', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBYzRUIwODgyREEwRjAzQTFCM0U1NkIwAA==', 'timestamp': '1719218853', 'text': {'body': 'write it in arabic'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: write it in arabic
+OpenAI response: بانادول هو اسم تجاري لدواء يحتوي على المادة الفعالة باراسيتامول. يُستخدم عادة لتخفيف الألم الخفيف إلى المتوسط ​​وتقليل الحمى. يمكن استخدام بانادول لعلاج حالات مختلفة مثل الصداع وآلام الأسنان وآلام العضلات وأعراض البرد أو الإنفلونزا. كما يُستخدم عادة كمسكن للألم آمن وفعال للأطفال. ومع ذلك، من المهم اتباع تعليمات الجرعة الموصى بها والتشاور مع محترف الرعاية الصحية إذا كان لديك أي مخاوف أو استفسارات حول استخدامه.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNDlBMDQ0Q0I4NEE5REJDNDIA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNDlBMDQ0Q0I4NEE5REJDNDIA', 'status': 'sent', 'timestamp': '1719218860', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'expiration_timestamp': '1719303660', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNDlBMDQ0Q0I4NEE5REJDNDIA', 'status': 'delivered', 'timestamp': '1719218861', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJGNDlBMDQ0Q0I4NEE5REJDNDIA', 'status': 'read', 'timestamp': '1719218861', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBYzRUIwNTg3MUQ4MDI3MTYyNUFDMDJDAA==', 'timestamp': '1719218886', 'text': {'body': 'thank you'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: thank you
+OpenAI response: You're welcome! If you have any questions or need assistance, feel free to ask.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBMTk3MEJBNjFDRjc0QjBFM0EA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBMTk3MEJBNjFDRjc0QjBFM0EA', 'status': 'sent', 'timestamp': '1719218889', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'expiration_timestamp': '1719303660', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBMTk3MEJBNjFDRjc0QjBFM0EA', 'status': 'delivered', 'timestamp': '1719218889', 'recipient_id': '96170595171', 'conversation': {'id': '5a5449205b6410234a03ab9d9c9ee9b0', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJBMTk3MEJBNjFDRjc0QjBFM0EA', 'status': 'read', 'timestamp': '1719218889', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, toothaches, muscle aches, and colds. 
+
+Common side effects of paracetamol (Panadol) include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AwZ00PPxxe3hGStxdLv6HwR'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A_PXODJDv96G6mIxw0cgvt0'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever. 
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'ASS9epvlesDhPBffN6WZkCZ'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of over-the-counter pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever. Panadol is available in various forms, including tablets, caplets, and liquid suspension.
+
+Common side effects of Panadol include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol and to not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AisVK9WhRbB_LteOoda3LsL'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'Af42QvmKfkxBW6T14lIjBKQ'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It's important to always read and follow the instructions on the packaging or as directed by your healthcare provider to minimize the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AZkJGY0G10cWPH96pl_VLjy'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is a widely available over-the-counter medication used for various conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to read and follow the dosage instructions on the packaging or as directed by a healthcare professional to avoid potential side effects. If you experience any severe or persistent side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A5mCcwVz8WGTKc6Fq3bgVZZ'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain reliever that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to alleviate mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive or prolonged use)
+
+It is important to take Panadol as directed and not exceed the recommended dosage to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult your healthcare provider.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AP62JR7DGYqhwf_rk9wjpmV'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, toothaches, muscle aches, and colds.
+
+Common side effects of paracetamol (Panadol) include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AHNsQO-YsG54gZxIgeagMAS'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AML5X5H4y1mu1On4j4h2CNm'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AtKoKQkhqK6Hbs2OxGEccJJ'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AElUXaRvwqX-mWpZTUJ4Yi4'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing paracetamol, which is commonly used to relieve pain and reduce fever. It is a widely available over-the-counter medication that is commonly used for various conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A0GqIryXCNNr5pXCvT4uBO9'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'entry': [{'id': '343766628822433', 'time': 1719316957, 'changes': [{'value': {'phone_number': '447563592681', 'event': 'PHONE_NUMBER_REMOVED'}, 'field': 'account_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'entry': [{'id': '361254230401218', 'time': 1719317581, 'changes': [{'value': {'display_phone_number': '18145463908', 'decision': 'REJECTED', 'requested_verified_name': 'Script Bae', 'rejection_reason': 'NAME_NOT_CONSISTENT'}, 'field': 'phone_number_name_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A_0LGrlAcXWqLEZwG7s2fHE'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain reliever that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to minimize the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A7on2dKuO_Ewhe1kpsLkl2v'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of paracetamol (Panadol) may include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol and to not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A6ys_fcVOi6rBk2pXN_jnA9'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A3xiU0bCRybbtzs98KDSELg'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AG8NL_-BMXxfmXw7SABeQQC'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTdDNUJGRDU4OTYyOUQxMUIwMwA=', 'timestamp': '1719335406', 'text': {'body': 'https://chat.whatsapp.com/Ez0m7gQI5446MhgOsrDrST'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: https://chat.whatsapp.com/Ez0m7gQI5446MhgOsrDrST
+OpenAI response: I'm sorry, but I cannot join external WhatsApp groups. However, if you have any questions or need assistance, feel free to ask here!
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5QkIwQkIzQzI5NjY4NDc3OUIA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5QkIwQkIzQzI5NjY4NDc3OUIA', 'status': 'sent', 'timestamp': '1719335410', 'recipient_id': '96170595171', 'conversation': {'id': '8a35ec2640a7dca9c3e2a312c54993b7', 'expiration_timestamp': '1719421860', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5QkIwQkIzQzI5NjY4NDc3OUIA', 'status': 'read', 'timestamp': '1719335411', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI5QkIwQkIzQzI5NjY4NDc3OUIA', 'status': 'delivered', 'timestamp': '1719335411', 'recipient_id': '96170595171', 'conversation': {'id': '8a35ec2640a7dca9c3e2a312c54993b7', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'Azi9Su4qDnlR42y6QefuU-1'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain, such as headaches, toothaches, muscle aches, and menstrual cramps, as well as reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AA8MB62QIfaPQidduPcqmo1'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A-DYRC0dXJpf5Nfs9B7SbbU'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing paracetamol, which is commonly used to relieve pain and reduce fever. It is commonly used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'ABYY3WzrfaI8q1NgOgEykl1'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A_nDReXE-aVINVxKSivVOtV'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'ADO9CUPPMgyPzpGQKi3pRUi'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, toothaches, muscle aches, and colds.
+
+Common side effects of paracetamol (Panadol) may include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AidMg1OK0JApAKwlr85NJEb'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a common over-the-counter pain reliever that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, it is advisable to seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AI8B9OsC6IEZTQhjXnf6Eow'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'Az7ne2sUXJ-kykmcc7vngr9'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of paracetamol (Panadol) may include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AAe04H_Do-0vPyqsrFRsBrw'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AmekHHfhV_2TdJZyrCzuipM'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, toothaches, muscle aches, and colds.
+
+Common side effects of paracetamol (Panadol) may include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AbEWfKB6B1RRRbrQ0Dx_L6h'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AYtQ7Vd3zP67eq0dHwxNPry'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to always follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should seek medical advice.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AVE87F4OE7v9_GmlbUJwPuu'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A8Gva7IQBrzpJBDP2-xG51X'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of paracetamol (Panadol) may include:
+
+1. Nausea
+2. Vomiting
+3. Liver damage (in cases of overdose)
+4. Allergic reactions (such as skin rash or itching)
+
+It is important to follow the recommended dosage instructions when taking Panadol to minimize the risk of side effects. If you experience any unusual or severe side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AH95id9U8AmzW2ACG9-W2hY'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication containing the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever. 
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'A0wBVnOpjbygcEZybdk9tTX'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for the medication containing paracetamol, which is commonly used to relieve pain and reduce fever. It is often used to treat conditions such as headaches, muscle aches, toothaches, and colds.
+
+Common side effects of Panadol (paracetamol) may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (in cases of overdose)
+5. Allergic reactions, such as skin rash or itching
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose to avoid the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AWWDyVcDObI5u4ReYVvU1HF'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'entry': [{'id': '361254230401218', 'time': 1719561976, 'changes': [{'value': {'phone_number': '18145463908', 'event': 'PHONE_NUMBER_REMOVED'}, 'field': 'account_update'}]}], 'object': 'whatsapp_business_account'}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'Av5fgIUKTOW73EO8QQlvReX'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand name for a medication that contains the active ingredient paracetamol, also known as acetaminophen. It is commonly used to relieve pain and reduce fever.
+
+Common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with excessive use)
+
+It is important to follow the recommended dosage instructions and consult a healthcare professional if you experience any severe or persistent side effects while taking Panadol.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AjDwsM4m6kaykkMgMdDuzu9'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'Accay Zaher'}, 'wa_id': '9613133674'}], 'messages': [{'from': '9613133674', 'id': 'wamid.HBgKOTYxMzEzMzY3NBUCABIYIEFDNDg3RERFMDAyMkIzQ0VGOTZFQzdDNzg2ODVGNDUxAA==', 'timestamp': '1719219747', 'text': {'body': 'What is panadol and side effects'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 9613133674: What is panadol and side effects
+OpenAI response: Panadol is a brand of pain relief medication that contains the active ingredient paracetamol (also known as acetaminophen). It is commonly used to relieve mild to moderate pain and reduce fever.
+
+Some common side effects of Panadol may include:
+
+1. Nausea
+2. Vomiting
+3. Upset stomach
+4. Liver damage (rare, but can occur with high doses or in individuals with pre-existing liver conditions)
+
+It is important to follow the recommended dosage instructions and not exceed the maximum daily dose of paracetamol to reduce the risk of side effects. If you experience any severe or persistent side effects while taking Panadol, you should consult a healthcare professional.
+WhatsApp message response: {'error': {'message': '(#131030) Recipient phone number not in allowed list', 'type': 'OAuthException', 'code': 131030, 'error_data': {'messaging_product': 'whatsapp', 'details': 'Recipient phone number not in allowed list: Add recipient phone number to recipient list and try again.'}, 'fbtrace_id': 'AUeB6TUmggf6-cKXgBkuAvE'}}
+Unknown error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v15.0/368413389678783/messages
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBQzQTdFMzA3NTNBRkIyRDhBQkY3NQA=', 'timestamp': '1720460590', 'text': {'body': 'Hi'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: Hi
+OpenAI response: Hello! How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI2QTNCN0FEQUNBRDQxNTMwOTkA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI2QTNCN0FEQUNBRDQxNTMwOTkA', 'status': 'read', 'timestamp': '1720460595', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI2QTNCN0FEQUNBRDQxNTMwOTkA', 'status': 'sent', 'timestamp': '1720460594', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'expiration_timestamp': '1720547040', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI2QTNCN0FEQUNBRDQxNTMwOTkA', 'status': 'delivered', 'timestamp': '1720460595', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBYzRUIwMzFBMTUzN0EzOUQ1Q0U0QkZCAA==', 'timestamp': '1720461513', 'text': {'body': 'How are you ?'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: How are you ?
+OpenAI response: I'm just a bot, so I don't have feelings, but I'm here and ready to help you with any questions or tasks you may have. How can I assist you today?
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDMTc4QkZENTBFODBFMTJGMjIA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDMTc4QkZENTBFODBFMTJGMjIA', 'status': 'sent', 'timestamp': '1720461516', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'expiration_timestamp': '1720547040', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDMTc4QkZENTBFODBFMTJGMjIA', 'status': 'read', 'timestamp': '1720461517', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBJDMTc4QkZENTBFODBFMTJGMjIA', 'status': 'delivered', 'timestamp': '1720461517', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'contacts': [{'profile': {'name': 'محمد'}, 'wa_id': '96170595171'}], 'messages': [{'from': '96170595171', 'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgASGBYzRUIwNTMwMUVDNkNGRjFENzhGOEZCAA==', 'timestamp': '1720462816', 'text': {'body': 'When do tesla report their earning?'}, 'type': 'text'}]}, 'field': 'messages'}]}]}
+Message received from 96170595171: When do tesla report their earning?
+OpenAI response: Tesla typically reports its earnings on a quarterly basis. The specific date can vary, but they usually release their financial results a few weeks after the end of each quarter. You can check Tesla's investor relations website or financial news sources for the most up-to-date information on their earnings release schedule.
+WhatsApp message response: {'messaging_product': 'whatsapp', 'contacts': [{'input': '96170595171', 'wa_id': '96170595171'}], 'messages': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4RDdGNzRFMUI0RjM3OTI5QTEA'}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4RDdGNzRFMUI0RjM3OTI5QTEA', 'status': 'sent', 'timestamp': '1720462819', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'expiration_timestamp': '1720547040', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4RDdGNzRFMUI0RjM3OTI5QTEA', 'status': 'delivered', 'timestamp': '1720462819', 'recipient_id': '96170595171', 'conversation': {'id': 'c40597bd0f7742f208289cb47477c371', 'origin': {'type': 'service'}}, 'pricing': {'billable': True, 'pricing_model': 'CBP', 'category': 'service'}}]}, 'field': 'messages'}]}]}
+Request body: {'object': 'whatsapp_business_account', 'entry': [{'id': '348522621675519', 'changes': [{'value': {'messaging_product': 'whatsapp', 'metadata': {'display_phone_number': '15550885819', 'phone_number_id': '368413389678783'}, 'statuses': [{'id': 'wamid.HBgLOTYxNzA1OTUxNzEVAgARGBI4RDdGNzRFMUI0RjM3OTI5QTEA', 'status': 'read', 'timestamp': '1720462819', 'recipient_id': '96170595171'}]}, 'field': 'messages'}]}]}
